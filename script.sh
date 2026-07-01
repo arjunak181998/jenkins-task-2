@@ -11,4 +11,5 @@ pwd
 echo "Hostname:"
 hostname
 echo "--------------------------------"
+echo "Webhook Test"
 Webhook Test
